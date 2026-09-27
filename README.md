@@ -15,8 +15,5 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vyctorr7&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vyctorr7&layout=compact&theme=dark" alt="Linguagens mais usadas" height="150"/>
-</p>
+### 📌 Repositórios em Destaque
+- 🏋️‍♂️ **[Projeto Individual - POO PHP](https://github.com/Vyctorr7/Projeto_Individual)**: Sistema de gestão de academia desenvolvido em PHP utilizando conceitos avançados de POO (Herança, Encapsulamento e Polimorfismo).
